@@ -28,6 +28,7 @@ homebrew_packages:
   - { name: zsh }
 
 homebrew_cask_packages:
+  - { name: alfred }
   - { name: atom }
   - { name: java }
   - { name: phpstorm }
