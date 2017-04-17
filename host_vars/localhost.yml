@@ -31,6 +31,7 @@ homebrew_packages:
 homebrew_cask_packages:
   - { name: alfred }
   - { name: atom }
+  - { name: clipy }
   - { name: java }
   - { name: phpstorm }
   - { name: skype }
