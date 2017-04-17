@@ -35,3 +35,7 @@ homebrew_cask_packages:
   - { name: vagrant }
   - { name: virtualbox }
   - { name: slack }
+  - { name: google-chrome }
+  - { name: google-drive }
+  - { name: google-hangouts }
+  - { name: google-japanese-ime }
