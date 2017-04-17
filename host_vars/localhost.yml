@@ -34,4 +34,4 @@ homebrew_cask_packages:
   - { name: skype }
   - { name: vagrant }
   - { name: virtualbox }
-
+  - { name: slack }
