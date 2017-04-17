@@ -1,0 +1,37 @@
+homebrew_taps:
+  - caskroom/cask
+  - homebrew/dupes
+  - homebrew/php
+
+homebrew_packages:
+  - { name: ansible }
+  - { name: autoconf }
+  - { name: awscli }
+  - { name: cmake }
+  - { name: composer }
+  - { name: coreutils }
+  - { name: curl }
+  - { name: curl, state: linked, install_options: force }
+  - { name: findutils }
+  - { name: ghq }
+  - { name: git }
+  - { name: go }
+  - { name: openssl }
+  - { name: openssl, state: linked, install_options: force }
+  - { name: peco }
+  - { name: python }
+  - { name: readline }
+  - { name: screen }
+  - { name: source-highlight }
+  - { name: the_silver_searcher }
+  - { name: wget }
+  - { name: zsh }
+
+homebrew_cask_packages:
+  - { name: atom }
+  - { name: java }
+  - { name: phpstorm }
+  - { name: skype }
+  - { name: vagrant }
+  - { name: virtualbox }
+
