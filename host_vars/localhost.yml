@@ -41,3 +41,4 @@ homebrew_cask_packages:
   - { name: google-hangouts }
   - { name: google-japanese-ime }
   - { name: iterm2 }
+  - { name: 1password }
