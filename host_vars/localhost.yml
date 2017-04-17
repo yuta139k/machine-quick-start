@@ -40,3 +40,4 @@ homebrew_cask_packages:
   - { name: google-drive }
   - { name: google-hangouts }
   - { name: google-japanese-ime }
+  - { name: iterm2 }
