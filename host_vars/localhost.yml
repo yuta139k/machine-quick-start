@@ -36,6 +36,7 @@ homebrew_cask_packages:
   - { name: phpstorm }
   - { name: skype }
   - { name: vagrant }
+  - { name: vagrant-manager }
   - { name: virtualbox }
   - { name: slack }
   - { name: google-chrome }
