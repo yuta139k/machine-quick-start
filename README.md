@@ -31,3 +31,7 @@ $ ansible-playbook -i hosts macos.yml
 ```
 
 This is all!!
+
+# Other Apps
+
+- [Display Menu](https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12)
