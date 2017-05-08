@@ -23,6 +23,7 @@ homebrew_packages:
   - { name: phpbrew }
   - { name: python }
   - { name: readline }
+  - { name: rbenv }
   - { name: screen }
   - { name: source-highlight }
   - { name: the_silver_searcher }
