@@ -20,6 +20,7 @@ homebrew_packages:
   - { name: openssl }
   - { name: openssl, state: linked, install_options: force }
   - { name: peco }
+  - { name: phpbrew }
   - { name: python }
   - { name: readline }
   - { name: screen }
