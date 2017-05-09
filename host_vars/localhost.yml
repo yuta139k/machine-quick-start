@@ -18,6 +18,7 @@ homebrew_packages:
   - { name: git }
   - { name: go }
   - { name: httpie }
+  - { name: icu4c }
   - { name: openssl }
   - { name: openssl, state: linked, install_options: force }
   - { name: peco }
