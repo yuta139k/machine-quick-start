@@ -12,6 +12,7 @@ homebrew_packages:
   - { name: coreutils }
   - { name: curl }
   - { name: curl, state: linked, install_options: force }
+  - { name: deployer }
   - { name: findutils }
   - { name: ghq }
   - { name: git }
