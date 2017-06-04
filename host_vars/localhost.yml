@@ -17,6 +17,7 @@ homebrew_packages:
   - { name: ghq }
   - { name: git }
   - { name: go }
+  - { name: heroku }
   - { name: httpie }
   - { name: icu4c }
   - { name: imagemagick }
