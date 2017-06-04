@@ -44,6 +44,7 @@ homebrew_cask_packages:
   - { name: clipy }
   - { name: dropbox }
   - { name: java }
+  - { name: ngrok }
   - { name: phpstorm }
   - { name: skype }
   - { name: vagrant }
