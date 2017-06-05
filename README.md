@@ -37,3 +37,4 @@ This is all!!
 - [Display Menu](https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12)
 - [Skitch](https://itunes.apple.com/us/app/skitch-snap-mark-up-send/id490505997?mt=8)
 - [Keynote](https://www.apple.com/jp/keynote/)
+- [GIPHY](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
