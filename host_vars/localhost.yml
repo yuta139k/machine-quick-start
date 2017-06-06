@@ -7,6 +7,7 @@ homebrew_packages:
   - { name: ansible }
   - { name: autoconf }
   - { name: awscli }
+  - { name: chromedriver }
   - { name: cmake }
   - { name: composer }
   - { name: coreutils }
@@ -31,6 +32,7 @@ homebrew_packages:
   - { name: readline }
   - { name: rbenv }
   - { name: screen }
+  - { name: selenium-server-standalone }
   - { name: source-highlight }
   - { name: symfony-installer }
   - { name: the_silver_searcher }
