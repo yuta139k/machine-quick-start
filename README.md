@@ -32,9 +32,20 @@ $ ansible-playbook -i hosts macos.yml
 
 This is all!!
 
-# Other Apps
+# Other Tasks (TODO)
 
-- [Display Menu](https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12)
-- [Skitch](https://itunes.apple.com/us/app/skitch-snap-mark-up-send/id490505997?mt=8)
-- [Keynote](https://www.apple.com/jp/keynote/)
-- [GIPHY](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
+- Enable rbenv.
+- Create dotfiles via homesick.
+
+    ```
+     $ gem install homesick
+     $ rbenv rehash
+     $ homesick clone kseta/dotfiles
+     $ cd ~ && homesick symlink dotfiles
+    ```
+
+- Intall Apps
+    - [Display Menu](https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12)
+    - [Skitch](https://itunes.apple.com/us/app/skitch-snap-mark-up-send/id490505997?mt=8)
+    - [Keynote](https://www.apple.com/jp/keynote/)
+    - [GIPHY](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
