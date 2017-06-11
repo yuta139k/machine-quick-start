@@ -46,6 +46,7 @@ homebrew_cask_packages:
   - { name: atom }
   - { name: clipy }
   - { name: dropbox }
+  - { name: firefox }
   - { name: java }
   - { name: ngrok }
   - { name: phpstorm }
