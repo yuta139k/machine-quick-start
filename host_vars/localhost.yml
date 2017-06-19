@@ -1,5 +1,6 @@
 homebrew_taps:
   - caskroom/cask
+  - caskroom/fonts
   - homebrew/dupes
   - homebrew/php
 
@@ -47,6 +48,7 @@ homebrew_cask_packages:
   - { name: clipy }
   - { name: dropbox }
   - { name: firefox }
+  - { name: font-ricty-diminished }
   - { name: java }
   - { name: ngrok }
   - { name: phpstorm }
