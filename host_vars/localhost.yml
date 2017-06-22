@@ -21,6 +21,7 @@ homebrew_packages:
   - { name: go }
   - { name: heroku }
   - { name: homebrew/php/php70-memcached }
+  - { name: homebrew/php/phplint }
   - { name: httpie }
   - { name: icu4c }
   - { name: imagemagick }
