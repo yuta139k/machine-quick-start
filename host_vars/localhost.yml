@@ -50,6 +50,7 @@ homebrew_cask_packages:
   - { name: dropbox }
   - { name: firefox }
   - { name: font-ricty-diminished }
+  - { name: font-source-han-code-jp }
   - { name: java }
   - { name: ngrok }
   - { name: phpstorm }
