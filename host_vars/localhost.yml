@@ -14,6 +14,7 @@ homebrew_packages:
   - { name: coreutils }
   - { name: curl }
   - { name: curl, state: linked, install_options: force }
+  - { name: docker }
   - { name: deployer }
   - { name: findutils }
   - { name: ghq }
@@ -48,6 +49,7 @@ homebrew_cask_packages:
   - { name: atom }
   - { name: clipy }
   - { name: dropbox }
+  - { name: docker }
   - { name: firefox }
   - { name: font-ricty-diminished }
   - { name: font-source-han-code-jp }
