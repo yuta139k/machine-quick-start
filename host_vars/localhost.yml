@@ -55,6 +55,7 @@ homebrew_cask_packages:
   - { name: font-ricty-diminished }
   - { name: font-source-han-code-jp }
   - { name: java }
+  - { name: mysqlworkbench }
   - { name: ngrok }
   - { name: phpstorm }
   - { name: skype }
