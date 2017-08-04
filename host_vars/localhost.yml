@@ -1,6 +1,7 @@
 homebrew_taps:
   - caskroom/cask
   - caskroom/fonts
+  - git-duet/tap
   - homebrew/dupes
   - homebrew/php
 
@@ -19,6 +20,7 @@ homebrew_packages:
   - { name: findutils }
   - { name: ghq }
   - { name: git }
+  - { name: git-duet } # https://github.com/git-duet/homebrew-tap
   - { name: go }
   - { name: heroku }
   - { name: homebrew/php/php-cs-fixer }
