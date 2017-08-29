@@ -60,6 +60,7 @@ homebrew_cask_packages:
   - { name: mysqlworkbench }
   - { name: ngrok }
   - { name: phpstorm }
+  - { name: pycharm-ce }
   - { name: skype }
   - { name: vagrant }
   - { name: vagrant-manager }
