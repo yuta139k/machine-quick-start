@@ -64,6 +64,7 @@ homebrew_cask_packages:
   - { name: vagrant }
   - { name: vagrant-manager }
   - { name: virtualbox }
+  - { name: sketch }
   - { name: slack }
   - { name: google-chrome }
   - { name: google-drive }
