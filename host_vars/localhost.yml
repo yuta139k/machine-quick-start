@@ -36,6 +36,7 @@ homebrew_packages:
   - { name: peco }
   - { name: phpbrew }
   - { name: python }
+  - { name: pyenv-virtualenv }
   - { name: readline }
   - { name: rbenv }
   - { name: screen }
