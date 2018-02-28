@@ -35,6 +35,7 @@ homebrew_packages:
   - { name: openssl, state: linked, install_options: force }
   - { name: peco }
   - { name: phpbrew }
+  - { name: postgresql@9.6 }
   - { name: python }
   - { name: pyenv-virtualenv }
   - { name: readline }
