@@ -8,6 +8,7 @@ homebrew_packages:
   - { name: ansible }
   - { name: autoconf }
   - { name: awscli }
+  - { name: brew-file }
   - { name: chromedriver }
   - { name: cmake }
   - { name: composer }
@@ -39,23 +40,31 @@ homebrew_packages:
   - { name: pyenv-virtualenv }
   - { name: readline }
   - { name: rbenv }
+  - { name: rbenv-gem-rehash }
   - { name: screen }
   - { name: selenium-server-standalone }
+  - { name: sketch }
   - { name: source-highlight }
   - { name: symfony-installer }
   - { name: the_silver_searcher }
   - { name: tree }
+  - { name: tmux }
   - { name: wget }
   - { name: z }
   - { name: zsh }
+  - { name: zsh-completions }
+  - { name: zsh-syntax-highlighting }
 
 homebrew_cask_packages:
   - { name: alfred }
+  - { name: appcleaner }
   - { name: atom }
+  - { name: bettertouchtool }
   - { name: clipy }
   - { name: dropbox }
   - { name: docker }
   - { name: firefox }
+  - { name: flux }
   - { name: font-ricty-diminished }
   - { name: font-source-han-code-jp }
   - { name: java }
@@ -63,7 +72,9 @@ homebrew_cask_packages:
   - { name: ngrok }
   - { name: phpstorm }
   - { name: pycharm-ce }
+  - { name: sequel-pro }
   - { name: skype }
+  - { name: sketchpacks }
   - { name: vagrant }
   - { name: vagrant-manager }
   - { name: virtualbox }
@@ -75,3 +86,4 @@ homebrew_cask_packages:
   - { name: google-japanese-ime }
   - { name: iterm2 }
   - { name: 1password }
+  - { name: wireshark }
