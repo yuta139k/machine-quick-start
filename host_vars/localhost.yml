@@ -15,6 +15,7 @@ homebrew_packages:
   - { name: coreutils }
   - { name: curl }
   - { name: curl, state: linked, install_options: force }
+  - { name: dash }
   - { name: docker }
   - { name: deployer }
   - { name: findutils }
@@ -87,3 +88,7 @@ homebrew_cask_packages:
   - { name: iterm2 }
   - { name: 1password }
   - { name: wireshark }
+  - { name: sketch }
+  - { name: sketch-toolbox }
+  - { name: arduino }
+  - { name: slack }
