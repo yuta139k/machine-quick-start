@@ -70,7 +70,7 @@ homebrew_cask_packages:
   - { name: sketch }
   - { name: slack }
   - { name: google-chrome }
-  - { name: google-drive }
+  - { name: google-drive-file-stream }
   - { name: google-hangouts }
   - { name: google-japanese-ime }
   - { name: iterm2 }
