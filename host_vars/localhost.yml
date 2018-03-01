@@ -81,8 +81,6 @@ homebrew_cask_packages:
   - { name: vagrant }
   - { name: vagrant-manager }
   - { name: virtualbox }
-  - { name: sketch }
-  - { name: slack }
   - { name: google-chrome }
   - { name: google-drive-file-stream }
   - { name: google-hangouts }
@@ -90,7 +88,6 @@ homebrew_cask_packages:
   - { name: iterm2 }
   - { name: 1password }
   - { name: wireshark }
-  - { name: sketch }
   - { name: sketch-toolbox }
   - { name: arduino }
   - { name: karabiner-elements }
