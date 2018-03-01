@@ -40,8 +40,10 @@ homebrew_packages:
   - { name: python }
   - { name: pyenv-virtualenv }
   - { name: readline }
+  - { name: ricty }
   - { name: rbenv }
   - { name: rbenv-gem-rehash }
+  - { name: slack }
   - { name: screen }
   - { name: selenium-server-standalone }
   - { name: sketch }
@@ -91,4 +93,4 @@ homebrew_cask_packages:
   - { name: sketch }
   - { name: sketch-toolbox }
   - { name: arduino }
-  - { name: slack }
+  - { name: karabiner-elements }
