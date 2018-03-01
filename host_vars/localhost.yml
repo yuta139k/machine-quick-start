@@ -2,7 +2,6 @@ homebrew_taps:
   - caskroom/cask
   - caskroom/fonts
   - git-duet/tap
-  - homebrew/dupes
   - homebrew/php
 
 homebrew_packages:
