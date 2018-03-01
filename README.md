@@ -6,21 +6,27 @@ This is my development quick setup and quick start!!
 
 First, install git and clone this repository.
 
-
-```
+```console
 $ git clone git@github.com:kseta/my-quick-start.git
+```
+
+Install Xcode and run command.
+
+
+```console
+$ sudo xcodebuild -license accept
 ```
 
 Intall Homebrew.
 
-```
+```console
 # see https://brew.sh/
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 Intall Ansible.
 
-```
+```console
 $ brew install ansible
 ```
 
@@ -35,9 +41,15 @@ This is all!!
 # Other Tasks (TODO)
 
 - Enable rbenv.
-- Create dotfiles via homesick.
 
     ```
+    $ rbenv init
+    $ rbenv install 2.4.3
+    ```
+
+- Create dotfiles via homesick.
+
+    ```console
      $ gem install homesick
      $ rbenv rehash
      $ homesick clone kseta/dotfiles
